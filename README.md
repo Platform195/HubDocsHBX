@@ -9,14 +9,14 @@ that lets hotels promote themselves across the HBX Group B2B network. Built with
 
 ```bash
 # 1. Install the Mintlify CLI (one time)
-npm i -g mint
+npm i -g mintlify
 
 # 2. From this folder
-mint dev
+mintlify dev
 # → http://localhost:3000
 ```
 
-`mint dev` watches MDX files and live-reloads.
+`mintlify dev` watches MDX files and live-reloads.
 
 ## Folder layout
 
