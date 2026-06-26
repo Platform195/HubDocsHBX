@@ -12,7 +12,7 @@
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg",
-    "href": "https://docs.app.uplifthub.io/HBX-self-serve/"
+    "href": "https://hbx-docs.uplifthub.io/"
   },
   "fonts": {
     "family": "Geist"
@@ -40,15 +40,15 @@
         "items": [
           {
             "label": "Terms & Conditions",
-            "href": "https://docs.app.uplifthub.io/HBX-self-serve/legal/terms-and-conditions"
+            "href": "https://hbx-docs.uplifthub.io/legal/terms-and-conditions"
           },
           {
             "label": "Platform Terms of Use",
-            "href": "https://docs.app.uplifthub.io/HBX-self-serve/legal/platform-terms"
+            "href": "https://hbx-docs.uplifthub.io/legal/platform-terms"
           },
           {
             "label": "Privacy Policy",
-            "href": "https://docs.app.uplifthub.io/HBX-self-serve/legal/privacy-policy"
+            "href": "https://hbx-docs.uplifthub.io/legal/privacy-policy"
           }
         ]
       }
