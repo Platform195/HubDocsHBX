@@ -1,4 +1,4 @@
-# Editorial guide
+  # Editorial guide
 
 A short reference for everyone writing HBX Self Serve docs. Stick to these and
 the site stays consistent.
