@@ -26,7 +26,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Open the portal",
+      "label": "Open the app",
       "href": "https://app.uplifthub.io/HBX-self-serve/"
     }
   },
