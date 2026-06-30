@@ -60,7 +60,6 @@
         "group": "Get started",
         "pages": [
           "index",
-          "get-started/introduction",
           "get-started/creating-an-account",
           "get-started/navigating"
         ]
