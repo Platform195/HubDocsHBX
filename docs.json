@@ -27,7 +27,7 @@
     "primary": {
       "type": "button",
       "label": "Open the app",
-      "href": "https://app.uplifthub.io/HBX-self-serve/"
+      "href": "https://app.uplifthub.io/SelfServe"
     }
   },
   "footer": {
